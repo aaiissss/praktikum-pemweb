@@ -1,0 +1,39 @@
+body {
+            background-color: lightgray;
+            font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        h1 {
+            text-align:center;
+        }
+        .soekarno {
+            background-color: beige;
+            border: 1px solid black;
+            text-align: center;
+            font-weight: bold;
+            color: black 
+        }
+        .akun {
+            text-align: center
+        }
+        p {
+            text-align: justify;
+        }
+        .center {
+            text-align: center;
+            color: blueviolet;
+        }
+        img {
+            width: 20%;
+        }
+        .burung {
+            background-color: gray;
+        }
+        .cara li {
+            font-weight: bold;
+        }
+        .promo {
+            text-align: center;
+        }
+        .promo #garis{
+            text-decoration:line-through;
+        }
