@@ -37,3 +37,7 @@ body {
         .promo #garis{
             text-decoration:line-through;
         }
+        #font {
+            font-size: 100px;
+            color: blue
+        }
