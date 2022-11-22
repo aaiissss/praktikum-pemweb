@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+}
+header{
+    background-color: bisque;
+    height: 15vh;
+    line-height: 15vh;
+}
+
+body{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    text-align: center;
+    line-height: 100vh;
+}
+
+main{
+    display: flex;
+    height: 70vh;
+    line-height: 70vh;
+}
+
+aside{
+    flex: 1;
+    background-color: aqua;
+}
+
+article{
+    flex:3;
+}
+
+nav{
+    flex:1;
+    background-color: chartreuse;
+}
+
+footer{
+    background-color: yellow;
+    height: 15vh;
+    line-height: 15vh;
+}

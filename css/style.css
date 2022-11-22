@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+}
+img{
+    width: 5%;
+}
+nav{
+    background-color: gainsboro;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+}
+nav ul li{
+    padding: 5px;
+}
