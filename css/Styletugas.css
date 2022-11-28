@@ -1,0 +1,39 @@
+div {
+    border: 2px solid black;
+    text-align: center;
+    font-size: 25px;
+    height: 100px;
+    line-height: 100px;
+}
+.satu {
+    background-color: green;
+    margin-bottom: 10px;
+
+}
+.dua {
+    background-color:yellow;
+    width: 20%;
+    margin-bottom: 10px;
+}
+.tiga {
+    background-color: coral;
+    width: 70%;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+.empat {
+    background-color: green;
+    margin-bottom: 10px;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+.gambar{
+    display: flex;
+    align-items: center; 
+    margin: auto;
+}
